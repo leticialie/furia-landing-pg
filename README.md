@@ -1,4 +1,4 @@
-# 🐯 FURIA Landing Page
+# 🐾 FURIA Landing Page
 
 Este projeto é uma landing page desenvolvida como parte do processo seletivo para a vaga de Assistente de Engenharia de Software da organização FURIA e-sports. A página foi criada para apresentar informações sobre a equipe de CS da organização.
 
